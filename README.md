@@ -1,4 +1,4 @@
-Here is your **updated, shorter, and professional README.md** with clear credit that the work was **fully done manually by Hament Kumar**:
+
 
 ---
 
@@ -86,10 +86,4 @@ This complete project, including **design, coding, modeling, and documentation, 
 
 ---
 
-If you'd like, I can also:
 
-* make this **more ATS-friendly for resume projects**
-* create a **GitHub-ready professional README with badges & diagrams**
-* generate a **project report PDF for internship submission**
-
-Just tell me 👍
